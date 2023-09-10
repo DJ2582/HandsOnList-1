@@ -16,7 +16,7 @@ int main(){
 	struct tm exec_time;
 	
 	exec_time.tm_hour = 4;
-	exec_time.tm_min = 125;
+	exec_time.tm_min = 25;
 	exec_time.tm_sec = 0;
 	
 	while(1){
